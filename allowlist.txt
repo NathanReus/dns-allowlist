@@ -1,0 +1,4 @@
+tracking.epicgames.com # So that Epic Games can work
+t.cfjump.com # Affiliate tracking for CashRewards
+incentivenetworks2.com # Affiliate tracking for Qantas Rewards
+analytics.google.com # I use GA for sites I create
